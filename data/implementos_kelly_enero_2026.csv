@@ -1,0 +1,284 @@
+﻿id,modelo,familia_comercial,precio_lista_mxn,regla_descuento_codigo,estado_descuento,hoja,fila,columna_modelo,columna_precio
+implementos-0009-A,TAV-12,,5742,,pendiente,Implementos,9,A,C
+implementos-0010-A,TAV-27,,4254,,pendiente,Implementos,10,A,C
+implementos-0011-A,TR-24,,2563,,pendiente,Implementos,11,A,C
+implementos-0012-A,TC-24,,2852,,pendiente,Implementos,12,A,C
+implementos-0013-A,TA-33,,3046,,pendiente,Implementos,13,A,C
+implementos-0014-A,TA-36,,3328,,pendiente,Implementos,14,A,C
+implementos-0015-A,TA-33 1 1/4,,3427,,pendiente,Implementos,15,A,C
+implementos-0016-A,TA-50  1 1/4,,5320,,pendiente,Implementos,16,A,C
+implementos-0017-A,TR-JD,,3410,,pendiente,Implementos,17,A,C
+implementos-0018-A,TC-JD,,3895,,pendiente,Implementos,18,A,C
+implementos-0019-A,TR-JD 1 1/4,,3840,,pendiente,Implementos,19,A,C
+implementos-0020-A,TC-JD 1 1/4,,4722,,pendiente,Implementos,20,A,C
+implementos-0021-A,TA-Cultiv Alto despeje,,4890,,pendiente,Implementos,21,A,C
+implementos-0024-A,CEP3 M (C3P3) REF.,,14491,,pendiente,Implementos,24,A,C
+implementos-0025-A,M3C2 EM (ECONM),,5360,,pendiente,Implementos,25,A,C
+implementos-0026-A,M3C2 P (PESADO),,8410,,pendiente,Implementos,26,A,C
+implementos-0027-A,TZ3P (TORRE Z),,9010,,pendiente,Implementos,27,A,C
+implementos-0028-A,CEP3 M (C3P3) ECONO,,6656,,pendiente,Implementos,28,A,C
+implementos-0029-A,MARCO PONY,,4502,,pendiente,Implementos,29,A,C
+implementos-0030-A,M3C2 R (REFORZ.),,8707,,pendiente,Implementos,30,A,C
+implementos-0033-A,BC-03 .91 mts,,2571,,pendiente,Implementos,33,A,C
+implementos-0034-A,BC-05 1.52 mts,,4148,,pendiente,Implementos,34,A,C
+implementos-0035-A,BC-06 1.83 mts,,5001,,pendiente,Implementos,35,A,C
+implementos-0036-A,BC-07 2.13 mts,,5840,,pendiente,Implementos,36,A,C
+implementos-0037-A,BC-08 2.44 mts,,6862,,pendiente,Implementos,37,A,C
+implementos-0038-A,BC-10 3.05 mts,,8301,,pendiente,Implementos,38,A,C
+implementos-0039-A,BC-12 3.66 mts,,9907,,pendiente,Implementos,39,A,C
+implementos-0040-A,BC-14 4.27 mts,,11716,,pendiente,Implementos,40,A,C
+implementos-0041-A,BC-16 4.88 mts,,13296,,pendiente,Implementos,41,A,C
+implementos-0044-A,JB-1 DISCO DL 24 3/16,,41203,,pendiente,Implementos,44,A,C
+implementos-0045-A,JB-2 DISCOS 5/32,,48527,,pendiente,Implementos,45,A,C
+implementos-0046-A,JB-2 DISCOS 3/16,,49129,,pendiente,Implementos,46,A,C
+implementos-0047-A,JB-3 DISCOS 3/16,,59650,,pendiente,Implementos,47,A,C
+implementos-0050-A,BORDERO 6 D 24 X 1/4 R,,85555,,pendiente,Implementos,50,A,C
+implementos-0051-A,BORDERO 6 D 24 X 1/4 E R,,96913,,pendiente,Implementos,51,A,C
+implementos-0052-A,BORD ARROCERO 8D.D. 24 X 1/4,,110177,,pendiente,Implementos,52,A,C
+implementos-0053-A,BORDERO APORC 24 X1/4,,94617,,pendiente,Implementos,53,A,C
+implementos-0054-A,BORDERO TRIPLE DD 24 X1/4,,342626,,pendiente,Implementos,54,A,C
+implementos-0073-A,RT-10TP 28 X 5/16,,500272,,pendiente,Implementos,73,A,C
+implementos-0074-A,RT-12TP 28 X 5/16,,532491,,pendiente,Implementos,74,A,C
+implementos-0075-A,RT-12TP 30 X 5/16,,550467,,pendiente,Implementos,75,A,C
+implementos-0076-A,RT-14TP 28 X 5/16,,570783,,pendiente,Implementos,76,A,C
+implementos-0077-A,RT-14TP 30 X 5/16,,589655,,pendiente,Implementos,77,A,C
+implementos-0078-A,RT-14TP 30 X 3/8,,599245,,pendiente,Implementos,78,A,C
+implementos-0079-A,RT-14TP 32 X 3/8,,607995,,pendiente,Implementos,79,A,C
+implementos-0080-A,RT-16TP 30 X 3/8,,655266,,pendiente,Implementos,80,A,C
+implementos-0081-A,RT-16TP 32 X 3/8,,665266,,pendiente,Implementos,81,A,C
+implementos-0082-A,RT-20TP 30 X 3/8,,725671,,pendiente,Implementos,82,A,C
+implementos-0083-A,RT-20TP 32 X 3/8,,738171,,pendiente,Implementos,83,A,C
+implementos-0087-A,RL-14 22 X 5/32,,88715,,pendiente,Implementos,87,A,C
+implementos-0088-A,RL-14 22 X 3/16,,90248,,pendiente,Implementos,88,A,C
+implementos-0089-A,RL-14 24 X 5/32,,91382,,pendiente,Implementos,89,A,C
+implementos-0090-A,RL-14 24 X 3/16,,93265,,pendiente,Implementos,90,A,C
+implementos-0091-A,RL-16 22 X 5/32,,102559,,pendiente,Implementos,91,A,C
+implementos-0092-A,RL-16 22 X 3/16,,104311,,pendiente,Implementos,92,A,C
+implementos-0093-A,RL-16 24 X 5/32,,105157,,pendiente,Implementos,93,A,C
+implementos-0094-A,RL-16 24 X 3/16,,107759,,pendiente,Implementos,94,A,C
+implementos-0095-A,RL-18 22 X 5/32,,112982,,pendiente,Implementos,95,A,C
+implementos-0096-A,RL-18 22 X 3/16,,114953,,pendiente,Implementos,96,A,C
+implementos-0097-A,RL-18 24 X 5/32,,116411,,pendiente,Implementos,97,A,C
+implementos-0098-A,RL-18 24 X 3/16,,118832,,pendiente,Implementos,98,A,C
+implementos-0099-A,RL-20 22 X 5/32,,120217,,pendiente,Implementos,99,A,C
+implementos-0100-A,RL-20 22 X 3/16,,122407,,pendiente,Implementos,100,A,C
+implementos-0101-A,RL-20 24 X 5/32,,124027,,pendiente,Implementos,101,A,C
+implementos-0102-A,RL-20 24 X 3/16,,126717,,pendiente,Implementos,102,A,C
+implementos-0103-A,RL-20 24 X 1/4,,135217,,pendiente,Implementos,103,A,C
+implementos-0104-A,RL-22 24 X 3/16,,133504,,pendiente,Implementos,104,A,C
+implementos-0105-A,RL-22 24 X 1/4,,142854,,pendiente,Implementos,105,A,C
+implementos-0109-A,RT-18D 24 X 3/16 LIGHT,,231754,,pendiente,Implementos,109,A,C
+implementos-0110-A,RT-18D 24 X 1/4 LIGHT,,239404,,pendiente,Implementos,110,A,C
+implementos-0111-A,RT-20D 24 X 3/16 LIGHT,,238656,,pendiente,Implementos,111,A,C
+implementos-0112-A,RT-20D 24 X 1/4 LIGHT,,247156,,pendiente,Implementos,112,A,C
+implementos-0113-A,RT-22D 24 X 3/16 LIGHT,,250674,,pendiente,Implementos,113,A,C
+implementos-0114-A,RT-22D 24 X 1/4 LIGHT,,260024,,pendiente,Implementos,114,A,C
+implementos-0115-A,RT-24D 24 X 3/16 LIGHT,,268110,,pendiente,Implementos,115,A,C
+implementos-0134-A,RL CAÑERA 12 D 24 5/32,,104600,,pendiente,Implementos,134,A,C
+implementos-0139-A,RL-08 18X5/32 PONY,,58960,,pendiente,Implementos,139,A,C
+implementos-0140-A,RL-10 18X5/32 PONY,,61568,,pendiente,Implementos,140,A,C
+implementos-0141-A,RL-12 18X5/32 PONY,,64138,,pendiente,Implementos,141,A,C
+implementos-0142-A,RL-14 18X5/32 PONY,,77375,,pendiente,Implementos,142,A,C
+implementos-0143-A,RL-16 18X5/32 PONY,,79403,,pendiente,Implementos,143,A,C
+implementos-0144-A,RL-12 18X5/32 HORT,,72938,,pendiente,Implementos,144,A,C
+implementos-0145-A,RL-14 22X5/32 HORT,,86987,,pendiente,Implementos,145,A,C
+implementos-0146-A,RL-16 22X5/32 HORT,,96267,,pendiente,Implementos,146,A,C
+implementos-0150-A,RL-08 18X5/32 PONY,,62114,,pendiente,Implementos,150,A,C
+implementos-0151-A,RL-10 18X5/32 PONY,,65578,,pendiente,Implementos,151,A,C
+implementos-0152-A,RL-12 18X5/32 PONY,,69038,,pendiente,Implementos,152,A,C
+implementos-0153-A,RL-14 18X5/32 PONY,,82935,,pendiente,Implementos,153,A,C
+implementos-0154-A,RL-16 18X5/32 PONY,,85831,,pendiente,Implementos,154,A,C
+implementos-0155-A,RL-12 18X5/32 HORT,,75588,,pendiente,Implementos,155,A,C
+implementos-0156-A,RL-14 22X5/32 HORT,,90167,,pendiente,Implementos,156,A,C
+implementos-0157-A,RL-16 22X5/32 HORT,,99977,,pendiente,Implementos,157,A,C
+implementos-0161-A,AZ-90,,20906,,pendiente,Implementos,161,A,C
+implementos-0162-A,AZ-120,,52109,,pendiente,Implementos,162,A,C
+implementos-0163-A,AZ-160,,60442,,pendiente,Implementos,163,A,C
+implementos-0164-A,AZ-230,,135166,,pendiente,Implementos,164,A,C
+implementos-0165-A,PL-500,,10647,,pendiente,Implementos,165,A,C
+implementos-0166-A,PL-1000,,14378,,pendiente,Implementos,166,A,C
+implementos-0167-A,PL-1500,,16730,,pendiente,Implementos,167,A,C
+implementos-0007-E,SS 3 PUNTAS-23,,61900,,pendiente,Implementos,7,E,G
+implementos-0008-E,SS 5 PUNTAS-23,,94694,,pendiente,Implementos,8,E,G
+implementos-0009-E,SS-SEMIPARAB 1P,,15013,,pendiente,Implementos,9,E,G
+implementos-0010-E,SS-SEMIPARAB 2 PONY,,28106,,pendiente,Implementos,10,E,G
+implementos-0011-E,SS- SEMIPARAB. 3 PONY S/ALERON,,42670,,pendiente,Implementos,11,E,G
+implementos-0012-E,SS-SEMIPARAB 3P,,91828,,pendiente,Implementos,12,E,G
+implementos-0013-E,SS-SEMIPARAB 5P,,120003,,pendiente,Implementos,13,E,G
+implementos-0014-E,SS-SEMIPARAB 7P,,159982,,pendiente,Implementos,14,E,G
+implementos-0015-E,SS-SEMP. C/LLAN 9P,,330902,,pendiente,Implementos,15,E,G
+implementos-0016-E,SS-SEMP. C/LLAN 7P,,191646,,pendiente,Implementos,16,E,G
+implementos-0017-E,Multi cultiv 5 ptas,,125709,,pendiente,Implementos,17,E,G
+implementos-0018-E,Multi cultiv 7 ptas,,165234,,pendiente,Implementos,18,E,G
+implementos-0019-E,Multi cultiv 9 ptas,,184845,,pendiente,Implementos,19,E,G
+implementos-0020-E,SS-CAÑERO 2P,,70788,,pendiente,Implementos,20,E,G
+implementos-0021-E,SS-CAÑERO 3P,,79506,,pendiente,Implementos,21,E,G
+implementos-0022-E,SS-CAÑERO 4P 3.05,,86318,,pendiente,Implementos,22,E,G
+implementos-0023-E,SS-CAÑERO 5P  4 MT,,133088,,pendiente,Implementos,23,E,G
+implementos-0026-E,C-ENR 7 TIMONES,,62429,,pendiente,Implementos,26,E,G
+implementos-0027-E,C-ENR 9 TIMONES,,76336,,pendiente,Implementos,27,E,G
+implementos-0028-E,C-ENR 13 TIMONES,,120748,,pendiente,Implementos,28,E,G
+implementos-0029-E,C-ENR 17 TIMONES,,150099,,pendiente,Implementos,29,E,G
+implementos-0030-E,C-ENR 21 TIMONES,,174408,,pendiente,Implementos,30,E,G
+implementos-0031-E,CNK-240 MANUAL,,70694,,pendiente,Implementos,31,E,G
+implementos-0032-E,CNK-240 HID. 1P,,75439,,pendiente,Implementos,32,E,G
+implementos-0033-E,CNK-240 HID. 2 P,,115155,,pendiente,Implementos,33,E,G
+implementos-0034-E,CNK-210 MANUAL,,64449,,pendiente,Implementos,34,E,G
+implementos-0035-E,CNK-1.40  PONY STD,,32038,,pendiente,Implementos,35,E,G
+implementos-0036-E,CULTIV. 5 T PONY,,23310,,pendiente,Implementos,36,E,G
+implementos-0037-E,ACOLCHADORA HORT.,,163698,,pendiente,Implementos,37,E,G
+implementos-0038-E,ACOLCH H DOB CINTILLA,,166789,,pendiente,Implementos,38,E,G
+implementos-0039-E,ACAMADORA LIGERA,,70377,,pendiente,Implementos,39,E,G
+implementos-0040-E,ACAMADORA AJUST.,,97398,,pendiente,Implementos,40,E,G
+implementos-0041-E,ACAMADORA ACOLCHADORA,,198703,,pendiente,Implementos,41,E,G
+implementos-0042-E,CULTIV. DE HIL.13 T S/SUSP. P/LLANTA REG,,87507,,pendiente,Implementos,42,E,G
+implementos-0043-E,CULTIV. DE HIL.19 T S/SUSP. P/LLANTA REG,,118525,,pendiente,Implementos,43,E,G
+implementos-0044-E,CULTIV. CAÑERA 6T,,160737,,pendiente,Implementos,44,E,G
+implementos-0045-E,CULTIV CAÑERA 6T E L,,195762,,pendiente,Implementos,45,E,G
+implementos-0046-E,SURC HID 5 T C/RUEDAS,,201748,,pendiente,Implementos,46,E,G
+implementos-0047-E,SURC STD 5 T CON RUEDAS,,114375,,pendiente,Implementos,47,E,G
+implementos-0050-E,RT-16 24 X 3/16,,256441,,pendiente,Implementos,50,E,G
+implementos-0051-E,RT-16 24 X 1/4,,263241,,pendiente,Implementos,51,E,G
+implementos-0052-E,RT-18 24 X 3/16,,270670,,pendiente,Implementos,52,E,G
+implementos-0053-E,RT-18 24 X 1/4,,278320,,pendiente,Implementos,53,E,G
+implementos-0071-E,RT-24D 24 X 1/4 LIGHT,,278310,,pendiente,Implementos,71,E,G
+implementos-0072-E,RT-26D 24 X 3/16 LIGHT,,277588,,pendiente,Implementos,72,E,G
+implementos-0073-E,RT-26D 24 X 1/4 LIGHT,,288638,,pendiente,Implementos,73,E,G
+implementos-0077-E,RL-14 22 X 5/32,,94655,,pendiente,Implementos,77,E,G
+implementos-0078-E,RL-14 22 X 3/16,,96188,,pendiente,Implementos,78,E,G
+implementos-0079-E,RL-14 24 X 5/32,,97322,,pendiente,Implementos,79,E,G
+implementos-0080-E,RL-14 24 X 3/16,,99205,,pendiente,Implementos,80,E,G
+implementos-0081-E,RL-16 22 X 5/32,,109489,,pendiente,Implementos,81,E,G
+implementos-0082-E,RL-16 22 X 3/16,,111241,,pendiente,Implementos,82,E,G
+implementos-0083-E,RL-16 24 X 5/32,,112087,,pendiente,Implementos,83,E,G
+implementos-0084-E,RL-16 24 X 3/16,,114689,,pendiente,Implementos,84,E,G
+implementos-0085-E,RL-18 22 X 5/32,,120902,,pendiente,Implementos,85,E,G
+implementos-0086-E,RL-18 22 X 3/16,,122873,,pendiente,Implementos,86,E,G
+implementos-0087-E,RL-18 24 X 5/32,,124331,,pendiente,Implementos,87,E,G
+implementos-0088-E,RL-18 24 X 3/16,,126752,,pendiente,Implementos,88,E,G
+implementos-0089-E,RL-20 22 X 5/32,,129127,,pendiente,Implementos,89,E,G
+implementos-0090-E,RL-20 22 X 3/16,,131317,,pendiente,Implementos,90,E,G
+implementos-0091-E,RL-20 24 X 5/32,,132937,,pendiente,Implementos,91,E,G
+implementos-0092-E,RL-20 24 X 3/16,,135627,,pendiente,Implementos,92,E,G
+implementos-0093-E,RL-20 24 X 1/4,,144127,,pendiente,Implementos,93,E,G
+implementos-0094-E,RL-22 24 X 3/16,,143404,,pendiente,Implementos,94,E,G
+implementos-0095-E,RL-22 24 X 1/4,,152754,,pendiente,Implementos,95,E,G
+implementos-0099-E,RL-18 24 X 5/32,,106218,,pendiente,Implementos,99,E,G
+implementos-0100-E,RL-18 24 X 3/16,,108909,,pendiente,Implementos,100,E,G
+implementos-0101-E,RL-20 24 X 5/32,,111308,,pendiente,Implementos,101,E,G
+implementos-0102-E,RL-20 24 X 3/16,,114298,,pendiente,Implementos,102,E,G
+implementos-0103-E,RL-20 24 X 1/4,,123748,,pendiente,Implementos,103,E,G
+implementos-0107-E,RL-18 24 X 5/32,,119196,,pendiente,Implementos,107,E,G
+implementos-0108-E,RL-18 24 X 3/16,,121887,,pendiente,Implementos,108,E,G
+implementos-0109-E,RL-20 24 X 5/32,,125784,,pendiente,Implementos,109,E,G
+implementos-0110-E,RL-20 24 X 3/16,,128774,,pendiente,Implementos,110,E,G
+implementos-0111-E,RL-20 24 X 1/4,,138224,,pendiente,Implementos,111,E,G
+implementos-0135-E,ARADO HIDR 3 DISCOS ADK03,,173526,,pendiente,Implementos,135,E,G
+implementos-0136-E,ARADO HIDR 4 DISCOS ADK04,,204881,,pendiente,Implementos,136,E,G
+implementos-0137-E,ARADO MANUAL 3 D. ADRMK03,,159160,,pendiente,Implementos,137,E,G
+implementos-0141-E,ENS FORRAJE STD 4T,,217368,,pendiente,Implementos,141,E,G
+implementos-0142-E,ENS FORRAJE HID 1 P 4T,,252761,,pendiente,Implementos,142,E,G
+implementos-0143-E,ENS FORRAJE HID 2 P 4T,,267568,,pendiente,Implementos,143,E,G
+implementos-0144-E,E F HID 2P 4T TANDEM,,276026,,pendiente,Implementos,144,E,G
+implementos-0145-E,ENS F 3T TOMATERO HID 2P,,221228,,pendiente,Implementos,145,E,G
+implementos-0146-E,ENS F HID. 2 P 6T 12 mt3,,382462,,pendiente,Implementos,146,E,G
+implementos-0147-E,ENS F HID 2 P 6T 9mt3,,306885,,pendiente,Implementos,147,E,G
+implementos-0148-E,ENS FORRAJE HID 1P 2T TANDEM,,161314,,pendiente,Implementos,148,E,G
+implementos-0149-E,ENS F HID 2P TANDEM 3 T,,229987,,pendiente,Implementos,149,E,G
+implementos-0150-E,ES-4T RED CORTAS,,209261,,pendiente,Implementos,150,E,G
+implementos-0151-E,ENS SANDILLERO,,250614,,pendiente,Implementos,151,E,G
+implementos-0154-E,RCB-3T 14 ft S/F,,145767,,pendiente,Implementos,154,E,G
+implementos-0155-E,RCB-3T 14 ft C/F,,154827,,pendiente,Implementos,155,E,G
+implementos-0156-E,RCB-3T 16 ft S/F,,157645,,pendiente,Implementos,156,E,G
+implementos-0157-E,RCB-3T 16 ft C/F,,167142,,pendiente,Implementos,157,E,G
+implementos-0158-E,RCB-1.5T 10 ft S/F,,81529,,pendiente,Implementos,158,E,G
+implementos-0159-E,RCB-1.5T 10 ft C/F,,90534,,pendiente,Implementos,159,E,G
+implementos-0160-E,RCB- 3T 10 ft S/F,,113674,,pendiente,Implementos,160,E,G
+implementos-0161-E,RCB- 3T 10 ft C/F,,118650,,pendiente,Implementos,161,E,G
+implementos-0162-E,RCB-6T 16 STD S/F,,253909,,pendiente,Implementos,162,E,G
+implementos-0163-E,RCB-6T 16 STD C/F,,260841,,pendiente,Implementos,163,E,G
+implementos-0166-E,RCB-3T 14 ft S/F,,152803,,pendiente,Implementos,166,E,G
+implementos-0167-E,RCB-3T 14 ft C/F,,161863,,pendiente,Implementos,167,E,G
+implementos-0168-E,RCB-3T 16 ft S/F,,164861,,pendiente,Implementos,168,E,G
+implementos-0169-E,RCB-3T 16 ft C/F,,174178,,pendiente,Implementos,169,E,G
+implementos-0170-E,RCB-6T 16 STD S/F,,264297,,pendiente,Implementos,170,E,G
+implementos-0171-E,RCB-6T 16 STD C/F,,271229,,pendiente,Implementos,171,E,G
+implementos-0005-I,RT-18 26 X 1/4,,284503,,pendiente,Implementos,5,I,K
+implementos-0006-I,RT-20 24 X 3/16,,290478,,pendiente,Implementos,6,I,K
+implementos-0007-I,RT-20 24 X 1/4,,298978,,pendiente,Implementos,7,I,K
+implementos-0008-I,RT-20 26 X 1/4,,305848,,pendiente,Implementos,8,I,K
+implementos-0009-I,RT-22 24 X 1/4,,308857,,pendiente,Implementos,9,I,K
+implementos-0010-I,RT-22 26 X 1/4,,316014,,pendiente,Implementos,10,I,K
+implementos-0011-I,RT-24 24 X 1/4,,336598,,pendiente,Implementos,11,I,K
+implementos-0012-I,RT-24 26 X 1/4,,344842,,pendiente,Implementos,12,I,K
+implementos-0013-I,RT-26 24 X 1/4,,369382,,pendiente,Implementos,13,I,K
+implementos-0014-I,RT-26 26 X 1/4,,378313,,pendiente,Implementos,14,I,K
+implementos-0015-I,RT-28 24 X 1/4,,384953,,pendiente,Implementos,15,I,K
+implementos-0016-I,RT-28 26 X 1/4,,394571,,pendiente,Implementos,16,I,K
+implementos-0021-I,RT-22  26 X 1/4 REF,,411502,,pendiente,Implementos,21,I,K
+implementos-0022-I,RT-24  26 X 1/4 REF,,427467,,pendiente,Implementos,22,I,K
+implementos-0023-I,RT-26  26 X 1/4 REF,,466266,,pendiente,Implementos,23,I,K
+implementos-0024-I,RT-28  26 X 1/4 REF,,485874,,pendiente,Implementos,24,I,K
+implementos-0025-I,RT-30  24 X 1/4 REF,,481223,,pendiente,Implementos,25,I,K
+implementos-0026-I,RT-30  26 X 1/4 REF,,491528,,pendiente,Implementos,26,I,K
+implementos-0027-I,RT-32 24 X 1/4  REF,,499430,,pendiente,Implementos,27,I,K
+implementos-0028-I,RT-32 26 X 1/4  REF,,510422,,pendiente,Implementos,28,I,K
+implementos-0029-I,RT-36 24 X 1/4 REF,,556118,,pendiente,Implementos,29,I,K
+implementos-0030-I,RT-36 26 X 1/4 REF,,568484,,pendiente,Implementos,30,I,K
+implementos-0031-I,RT-38 26 X 1/4 REF,,633449,,pendiente,Implementos,31,I,K
+implementos-0036-I,"RT-38 26 X 1/4 REF 9""",,736179,,pendiente,Implementos,36,I,K
+implementos-0037-I,"RT-40 26 X 1/4 REF 9""",,754882,,pendiente,Implementos,37,I,K
+implementos-0038-I,"RT-42 26 X 1/4 REF 9""",,782208,,pendiente,Implementos,38,I,K
+implementos-0039-I,"RT-44 26 X 1/4 REF 9""",,1034339,,pendiente,Implementos,39,I,K
+implementos-0040-I,"RT-32 26 X 1/4 REF 10.5""",,612723,,pendiente,Implementos,40,I,K
+implementos-0041-I,"RT-42 26 X 1/4 REF 10.5""",,782208,,pendiente,Implementos,41,I,K
+implementos-0042-I,"RT-44 28 X 1/4 REF 10.5""",,1050971,,pendiente,Implementos,42,I,K
+implementos-0046-I,RT-22TI 24 X 1/4,,429668,,pendiente,Implementos,46,I,K
+implementos-0047-I,RT-22TI 26 X 1/4,,437225,,pendiente,Implementos,47,I,K
+implementos-0048-I,RT-24TI 24 X 1/4,,458787,,pendiente,Implementos,48,I,K
+implementos-0049-I,RT-24TI 26 X 1/4,,467031,,pendiente,Implementos,49,I,K
+implementos-0050-I,RT-26TI 24 X 1/4,,478112,,pendiente,Implementos,50,I,K
+implementos-0051-I,RT-26TI 26 X 1/4,,487043,,pendiente,Implementos,51,I,K
+implementos-0052-I,RT-28TI 24 X 1/4,,506700,,pendiente,Implementos,52,I,K
+implementos-0053-I,RT-28TI 26 X 1/4,,516318,,pendiente,Implementos,53,I,K
+implementos-0054-I,RT-30TI 24 X 1/4,,533206,,pendiente,Implementos,54,I,K
+implementos-0055-I,RT-32TI 24 X 1/4,,554489,,pendiente,Implementos,55,I,K
+implementos-0056-I,RT-32TI 26 X 1/4,,565481,,pendiente,Implementos,56,I,K
+implementos-0073-I,RL-18 24 X 5/32,,101841,,pendiente,Implementos,73,I,K
+implementos-0074-I,RL-18 24 X 3/16,,104532,,pendiente,Implementos,74,I,K
+implementos-0075-I,RL-20 24 X 5/32,,107369,,pendiente,Implementos,75,I,K
+implementos-0076-I,RL-20 24 X 3/16,,110359,,pendiente,Implementos,76,I,K
+implementos-0077-I,RL-20 24 X 1/4,,119809,,pendiente,Implementos,77,I,K
+implementos-0081-I,RL-18 24 X 5/32,,114819,,pendiente,Implementos,81,I,K
+implementos-0082-I,RL-18 24 X 3/16,,117510,,pendiente,Implementos,82,I,K
+implementos-0083-I,RL-20 24 X 5/32,,121845,,pendiente,Implementos,83,I,K
+implementos-0084-I,RL-20 24 X 3/16,,124835,,pendiente,Implementos,84,I,K
+implementos-0085-I,RL-20 24 X 1/4,,134285,,pendiente,Implementos,85,I,K
+implementos-0089-I,RL-14 24 X 5/32,Rastra de levante tipo V sin limpiadores,82278,rastra_tipo_v_57_3_10,configurado,Implementos,89,I,K
+implementos-0090-I,RL-14 24 X 3/16,Rastra de levante tipo V sin limpiadores,84161,rastra_tipo_v_57_3_10,configurado,Implementos,90,I,K
+implementos-0091-I,RL-16 24 X 5/32,Rastra de levante tipo V sin limpiadores,99025,rastra_tipo_v_57_3_10,configurado,Implementos,91,I,K
+implementos-0092-I,RL-16 24 X 3/16,Rastra de levante tipo V sin limpiadores,101177,rastra_tipo_v_57_3_10,configurado,Implementos,92,I,K
+implementos-0093-I,RL-16 24 X 1/4,Rastra de levante tipo V sin limpiadores,107677,rastra_tipo_v_57_3_10,configurado,Implementos,93,I,K
+implementos-0094-I,RL-18 24 X 5/32,Rastra de levante tipo V sin limpiadores,106295,rastra_tipo_v_57_3_10,configurado,Implementos,94,I,K
+implementos-0095-I,RL-18 24 X 3/16,Rastra de levante tipo V sin limpiadores,108716,rastra_tipo_v_57_3_10,configurado,Implementos,95,I,K
+implementos-0096-I,RL-18 24 X 1/4,Rastra de levante tipo V sin limpiadores,116366,rastra_tipo_v_57_3_10,configurado,Implementos,96,I,K
+implementos-0097-I,RL-20 24 X 5/32,Rastra de levante tipo V sin limpiadores,113726,rastra_tipo_v_57_3_10,configurado,Implementos,97,I,K
+implementos-0098-I,RL-20 24 X 3/16,Rastra de levante tipo V sin limpiadores,116416,rastra_tipo_v_57_3_10,configurado,Implementos,98,I,K
+implementos-0099-I,RL-20 24 X 1/4,Rastra de levante tipo V sin limpiadores,124916,rastra_tipo_v_57_3_10,configurado,Implementos,99,I,K
+implementos-0103-I,RL-14 24 X 5/32,Rastra de levante tipo V con limpiadores,90780,rastra_tipo_v_57_3_10,configurado,Implementos,103,I,K
+implementos-0104-I,RL-14 24 X 3/16,Rastra de levante tipo V con limpiadores,92663,rastra_tipo_v_57_3_10,configurado,Implementos,104,I,K
+implementos-0105-I,RL-16 24 X 5/32,Rastra de levante tipo V con limpiadores,108863,rastra_tipo_v_57_3_10,configurado,Implementos,105,I,K
+implementos-0106-I,RL-16 24 X 3/16,Rastra de levante tipo V con limpiadores,111015,rastra_tipo_v_57_3_10,configurado,Implementos,106,I,K
+implementos-0107-I,RL-16 24 X 1/4,Rastra de levante tipo V con limpiadores,117515,rastra_tipo_v_57_3_10,configurado,Implementos,107,I,K
+implementos-0108-I,RL-18 24 X 5/32,Rastra de levante tipo V con limpiadores,117421,rastra_tipo_v_57_3_10,configurado,Implementos,108,I,K
+implementos-0109-I,RL-18 24 X 3/16,Rastra de levante tipo V con limpiadores,119842,rastra_tipo_v_57_3_10,configurado,Implementos,109,I,K
+implementos-0110-I,RL-18 24 X 1/4,Rastra de levante tipo V con limpiadores,127492,rastra_tipo_v_57_3_10,configurado,Implementos,110,I,K
+implementos-0111-I,RL-20 24 X 5/32,Rastra de levante tipo V con limpiadores,126140,rastra_tipo_v_57_3_10,configurado,Implementos,111,I,K
+implementos-0112-I,RL-20 24 X 3/16,Rastra de levante tipo V con limpiadores,128830,rastra_tipo_v_57_3_10,configurado,Implementos,112,I,K
+implementos-0113-I,RL-20 24 X 1/4,Rastra de levante tipo V con limpiadores,137330,rastra_tipo_v_57_3_10,configurado,Implementos,113,I,K
+implementos-0135-I,RCB-6T 16 HIDR S/F *,,339876,,pendiente,Implementos,135,I,K
+implementos-0136-I,RCB-6T 16 HIDR C/F *,,356928,,pendiente,Implementos,136,I,K
+implementos-0137-I,RCB-6T 16 HIDR S/F **,,349522,,pendiente,Implementos,137,I,K
+implementos-0138-I,RCB-6T 16 HIDR C/F **,,366574,,pendiente,Implementos,138,I,K
+implementos-0139-I,RCB-6T 16 HIDR S/F ***,,372687,,pendiente,Implementos,139,I,K
+implementos-0140-I,RCB-6T 16 HIDR C/F ***,,389739,,pendiente,Implementos,140,I,K

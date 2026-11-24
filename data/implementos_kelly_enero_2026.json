@@ -1,0 +1,4563 @@
+{
+  "metadata": {
+    "uso": "MVP Agrotec de Occidente - Implementos Kelly únicamente",
+    "proveedor_original_segun_excel": "Industrias Cabrera, S.A. de C.V.",
+    "archivo_origen": "lista 70 Enero 2026 (2).xlsx",
+    "hoja_origen": "Implementos",
+    "numero_lista": 70,
+    "periodo": "enero 2026",
+    "moneda": "MXN",
+    "productos": 283,
+    "descuentos_confirmados": 22,
+    "descuentos_pendientes": 261,
+    "observacion": "Discos y Refacciones expresamente fuera de alcance. 25% es recargo sobre costo, no margen sobre venta. IVA pendiente de confirmar."
+  },
+  "reglas_descuento": [
+    {
+      "codigo": "rastra_tipo_v_57_3_10",
+      "nombre": "Rastras levante tipo V",
+      "descuentos_consecutivos_pct": [
+        57.5,
+        3,
+        10
+      ],
+      "estado": "confirmado_en_conversacion"
+    }
+  ],
+  "configuracion_comercial": {
+    "recargo_sugerido_sobre_costo_pct": "25",
+    "tipo_recargo": "markup_sobre_costo",
+    "redondeo_precio_venta": "peso_entero_half_up",
+    "iva": "sin_definir"
+  },
+  "productos": [
+    {
+      "id": "implementos-0009-A",
+      "nombre": "TAV-12",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "5742",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 9,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0010-A",
+      "nombre": "TAV-27",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "4254",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 10,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0011-A",
+      "nombre": "TR-24",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "2563",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 11,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0012-A",
+      "nombre": "TC-24",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "2852",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 12,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0013-A",
+      "nombre": "TA-33",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "3046",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 13,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0014-A",
+      "nombre": "TA-36",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "3328",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 14,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0015-A",
+      "nombre": "TA-33 1 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "3427",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 15,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0016-A",
+      "nombre": "TA-50  1 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "5320",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 16,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0017-A",
+      "nombre": "TR-JD",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "3410",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 17,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0018-A",
+      "nombre": "TC-JD",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "3895",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 18,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0019-A",
+      "nombre": "TR-JD 1 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "3840",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 19,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0020-A",
+      "nombre": "TC-JD 1 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "4722",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 20,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0021-A",
+      "nombre": "TA-Cultiv Alto despeje",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "4890",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 21,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0024-A",
+      "nombre": "CEP3 M (C3P3) REF.",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "14491",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 24,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0025-A",
+      "nombre": "M3C2 EM (ECONM)",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "5360",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 25,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0026-A",
+      "nombre": "M3C2 P (PESADO)",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "8410",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 26,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0027-A",
+      "nombre": "TZ3P (TORRE Z)",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "9010",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 27,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0028-A",
+      "nombre": "CEP3 M (C3P3) ECONO",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "6656",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 28,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0029-A",
+      "nombre": "MARCO PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "4502",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 29,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0030-A",
+      "nombre": "M3C2 R (REFORZ.)",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "8707",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 30,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0033-A",
+      "nombre": "BC-03 .91 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "2571",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 33,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0034-A",
+      "nombre": "BC-05 1.52 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "4148",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 34,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0035-A",
+      "nombre": "BC-06 1.83 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "5001",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 35,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0036-A",
+      "nombre": "BC-07 2.13 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "5840",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 36,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0037-A",
+      "nombre": "BC-08 2.44 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "6862",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 37,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0038-A",
+      "nombre": "BC-10 3.05 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "8301",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 38,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0039-A",
+      "nombre": "BC-12 3.66 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "9907",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 39,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0040-A",
+      "nombre": "BC-14 4.27 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "11716",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 40,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0041-A",
+      "nombre": "BC-16 4.88 mts",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "13296",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 41,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0044-A",
+      "nombre": "JB-1 DISCO DL 24 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "41203",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 44,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0045-A",
+      "nombre": "JB-2 DISCOS 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "48527",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 45,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0046-A",
+      "nombre": "JB-2 DISCOS 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "49129",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 46,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0047-A",
+      "nombre": "JB-3 DISCOS 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "59650",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 47,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0050-A",
+      "nombre": "BORDERO 6 D 24 X 1/4 R",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "85555",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 50,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0051-A",
+      "nombre": "BORDERO 6 D 24 X 1/4 E R",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "96913",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 51,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0052-A",
+      "nombre": "BORD ARROCERO 8D.D. 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "110177",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 52,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0053-A",
+      "nombre": "BORDERO APORC 24 X1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "94617",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 53,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0054-A",
+      "nombre": "BORDERO TRIPLE DD 24 X1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "342626",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 54,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0073-A",
+      "nombre": "RT-10TP 28 X 5/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "500272",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 73,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0074-A",
+      "nombre": "RT-12TP 28 X 5/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "532491",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 74,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0075-A",
+      "nombre": "RT-12TP 30 X 5/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "550467",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 75,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0076-A",
+      "nombre": "RT-14TP 28 X 5/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "570783",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 76,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0077-A",
+      "nombre": "RT-14TP 30 X 5/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "589655",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 77,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0078-A",
+      "nombre": "RT-14TP 30 X 3/8",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "599245",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 78,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0079-A",
+      "nombre": "RT-14TP 32 X 3/8",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "607995",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 79,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0080-A",
+      "nombre": "RT-16TP 30 X 3/8",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "655266",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 80,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0081-A",
+      "nombre": "RT-16TP 32 X 3/8",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "665266",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 81,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0082-A",
+      "nombre": "RT-20TP 30 X 3/8",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "725671",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 82,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0083-A",
+      "nombre": "RT-20TP 32 X 3/8",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "738171",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 83,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0087-A",
+      "nombre": "RL-14 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "88715",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 87,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0088-A",
+      "nombre": "RL-14 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "90248",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 88,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0089-A",
+      "nombre": "RL-14 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "91382",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 89,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0090-A",
+      "nombre": "RL-14 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "93265",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 90,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0091-A",
+      "nombre": "RL-16 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "102559",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 91,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0092-A",
+      "nombre": "RL-16 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "104311",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 92,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0093-A",
+      "nombre": "RL-16 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "105157",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 93,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0094-A",
+      "nombre": "RL-16 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "107759",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 94,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0095-A",
+      "nombre": "RL-18 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "112982",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 95,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0096-A",
+      "nombre": "RL-18 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "114953",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 96,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0097-A",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "116411",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 97,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0098-A",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "118832",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 98,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0099-A",
+      "nombre": "RL-20 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "120217",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 99,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0100-A",
+      "nombre": "RL-20 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "122407",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 100,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0101-A",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "124027",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 101,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0102-A",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "126717",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 102,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0103-A",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "135217",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 103,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0104-A",
+      "nombre": "RL-22 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "133504",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 104,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0105-A",
+      "nombre": "RL-22 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "142854",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 105,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0109-A",
+      "nombre": "RT-18D 24 X 3/16 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "231754",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 109,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0110-A",
+      "nombre": "RT-18D 24 X 1/4 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "239404",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 110,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0111-A",
+      "nombre": "RT-20D 24 X 3/16 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "238656",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 111,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0112-A",
+      "nombre": "RT-20D 24 X 1/4 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "247156",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 112,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0113-A",
+      "nombre": "RT-22D 24 X 3/16 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "250674",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 113,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0114-A",
+      "nombre": "RT-22D 24 X 1/4 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "260024",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 114,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0115-A",
+      "nombre": "RT-24D 24 X 3/16 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "268110",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 115,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0134-A",
+      "nombre": "RL CAÑERA 12 D 24 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "104600",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 134,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0139-A",
+      "nombre": "RL-08 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "58960",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 139,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0140-A",
+      "nombre": "RL-10 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "61568",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 140,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0141-A",
+      "nombre": "RL-12 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "64138",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 141,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0142-A",
+      "nombre": "RL-14 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "77375",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 142,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0143-A",
+      "nombre": "RL-16 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "79403",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 143,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0144-A",
+      "nombre": "RL-12 18X5/32 HORT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "72938",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 144,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0145-A",
+      "nombre": "RL-14 22X5/32 HORT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "86987",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 145,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0146-A",
+      "nombre": "RL-16 22X5/32 HORT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "96267",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 146,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0150-A",
+      "nombre": "RL-08 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "62114",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 150,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0151-A",
+      "nombre": "RL-10 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "65578",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 151,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0152-A",
+      "nombre": "RL-12 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "69038",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 152,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0153-A",
+      "nombre": "RL-14 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "82935",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 153,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0154-A",
+      "nombre": "RL-16 18X5/32 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "85831",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 154,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0155-A",
+      "nombre": "RL-12 18X5/32 HORT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "75588",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 155,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0156-A",
+      "nombre": "RL-14 22X5/32 HORT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "90167",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 156,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0157-A",
+      "nombre": "RL-16 22X5/32 HORT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "99977",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 157,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0161-A",
+      "nombre": "AZ-90",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "20906",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 161,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0162-A",
+      "nombre": "AZ-120",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "52109",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 162,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0163-A",
+      "nombre": "AZ-160",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "60442",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 163,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0164-A",
+      "nombre": "AZ-230",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "135166",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 164,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0165-A",
+      "nombre": "PL-500",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "10647",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 165,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0166-A",
+      "nombre": "PL-1000",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "14378",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 166,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0167-A",
+      "nombre": "PL-1500",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "16730",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 167,
+        "columna_modelo": "A",
+        "columna_precio": "C"
+      }
+    },
+    {
+      "id": "implementos-0007-E",
+      "nombre": "SS 3 PUNTAS-23",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "61900",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 7,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0008-E",
+      "nombre": "SS 5 PUNTAS-23",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "94694",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 8,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0009-E",
+      "nombre": "SS-SEMIPARAB 1P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "15013",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 9,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0010-E",
+      "nombre": "SS-SEMIPARAB 2 PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "28106",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 10,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0011-E",
+      "nombre": "SS- SEMIPARAB. 3 PONY S/ALERON",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "42670",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 11,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0012-E",
+      "nombre": "SS-SEMIPARAB 3P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "91828",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 12,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0013-E",
+      "nombre": "SS-SEMIPARAB 5P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "120003",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 13,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0014-E",
+      "nombre": "SS-SEMIPARAB 7P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "159982",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 14,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0015-E",
+      "nombre": "SS-SEMP. C/LLAN 9P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "330902",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 15,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0016-E",
+      "nombre": "SS-SEMP. C/LLAN 7P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "191646",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 16,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0017-E",
+      "nombre": "Multi cultiv 5 ptas",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "125709",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 17,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0018-E",
+      "nombre": "Multi cultiv 7 ptas",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "165234",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 18,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0019-E",
+      "nombre": "Multi cultiv 9 ptas",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "184845",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 19,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0020-E",
+      "nombre": "SS-CAÑERO 2P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "70788",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 20,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0021-E",
+      "nombre": "SS-CAÑERO 3P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "79506",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 21,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0022-E",
+      "nombre": "SS-CAÑERO 4P 3.05",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "86318",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 22,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0023-E",
+      "nombre": "SS-CAÑERO 5P  4 MT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "133088",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 23,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0026-E",
+      "nombre": "C-ENR 7 TIMONES",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "62429",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 26,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0027-E",
+      "nombre": "C-ENR 9 TIMONES",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "76336",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 27,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0028-E",
+      "nombre": "C-ENR 13 TIMONES",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "120748",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 28,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0029-E",
+      "nombre": "C-ENR 17 TIMONES",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "150099",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 29,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0030-E",
+      "nombre": "C-ENR 21 TIMONES",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "174408",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 30,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0031-E",
+      "nombre": "CNK-240 MANUAL",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "70694",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 31,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0032-E",
+      "nombre": "CNK-240 HID. 1P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "75439",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 32,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0033-E",
+      "nombre": "CNK-240 HID. 2 P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "115155",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 33,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0034-E",
+      "nombre": "CNK-210 MANUAL",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "64449",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 34,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0035-E",
+      "nombre": "CNK-1.40  PONY STD",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "32038",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 35,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0036-E",
+      "nombre": "CULTIV. 5 T PONY",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "23310",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 36,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0037-E",
+      "nombre": "ACOLCHADORA HORT.",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "163698",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 37,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0038-E",
+      "nombre": "ACOLCH H DOB CINTILLA",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "166789",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 38,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0039-E",
+      "nombre": "ACAMADORA LIGERA",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "70377",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 39,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0040-E",
+      "nombre": "ACAMADORA AJUST.",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "97398",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 40,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0041-E",
+      "nombre": "ACAMADORA ACOLCHADORA",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "198703",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 41,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0042-E",
+      "nombre": "CULTIV. DE HIL.13 T S/SUSP. P/LLANTA REG",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "87507",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 42,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0043-E",
+      "nombre": "CULTIV. DE HIL.19 T S/SUSP. P/LLANTA REG",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "118525",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 43,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0044-E",
+      "nombre": "CULTIV. CAÑERA 6T",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "160737",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 44,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0045-E",
+      "nombre": "CULTIV CAÑERA 6T E L",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "195762",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 45,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0046-E",
+      "nombre": "SURC HID 5 T C/RUEDAS",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "201748",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 46,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0047-E",
+      "nombre": "SURC STD 5 T CON RUEDAS",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "114375",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 47,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0050-E",
+      "nombre": "RT-16 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "256441",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 50,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0051-E",
+      "nombre": "RT-16 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "263241",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 51,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0052-E",
+      "nombre": "RT-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "270670",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 52,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0053-E",
+      "nombre": "RT-18 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "278320",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 53,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0071-E",
+      "nombre": "RT-24D 24 X 1/4 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "278310",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 71,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0072-E",
+      "nombre": "RT-26D 24 X 3/16 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "277588",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 72,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0073-E",
+      "nombre": "RT-26D 24 X 1/4 LIGHT",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "288638",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 73,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0077-E",
+      "nombre": "RL-14 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "94655",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 77,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0078-E",
+      "nombre": "RL-14 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "96188",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 78,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0079-E",
+      "nombre": "RL-14 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "97322",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 79,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0080-E",
+      "nombre": "RL-14 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "99205",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 80,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0081-E",
+      "nombre": "RL-16 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "109489",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 81,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0082-E",
+      "nombre": "RL-16 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "111241",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 82,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0083-E",
+      "nombre": "RL-16 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "112087",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 83,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0084-E",
+      "nombre": "RL-16 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "114689",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 84,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0085-E",
+      "nombre": "RL-18 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "120902",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 85,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0086-E",
+      "nombre": "RL-18 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "122873",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 86,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0087-E",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "124331",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 87,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0088-E",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "126752",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 88,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0089-E",
+      "nombre": "RL-20 22 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "129127",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 89,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0090-E",
+      "nombre": "RL-20 22 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "131317",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 90,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0091-E",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "132937",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 91,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0092-E",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "135627",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 92,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0093-E",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "144127",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 93,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0094-E",
+      "nombre": "RL-22 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "143404",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 94,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0095-E",
+      "nombre": "RL-22 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "152754",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 95,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0099-E",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "106218",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 99,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0100-E",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "108909",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 100,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0101-E",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "111308",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 101,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0102-E",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "114298",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 102,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0103-E",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "123748",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 103,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0107-E",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "119196",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 107,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0108-E",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "121887",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 108,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0109-E",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "125784",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 109,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0110-E",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "128774",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 110,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0111-E",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "138224",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 111,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0135-E",
+      "nombre": "ARADO HIDR 3 DISCOS ADK03",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "173526",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 135,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0136-E",
+      "nombre": "ARADO HIDR 4 DISCOS ADK04",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "204881",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 136,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0137-E",
+      "nombre": "ARADO MANUAL 3 D. ADRMK03",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "159160",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 137,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0141-E",
+      "nombre": "ENS FORRAJE STD 4T",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "217368",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 141,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0142-E",
+      "nombre": "ENS FORRAJE HID 1 P 4T",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "252761",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 142,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0143-E",
+      "nombre": "ENS FORRAJE HID 2 P 4T",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "267568",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 143,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0144-E",
+      "nombre": "E F HID 2P 4T TANDEM",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "276026",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 144,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0145-E",
+      "nombre": "ENS F 3T TOMATERO HID 2P",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "221228",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 145,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0146-E",
+      "nombre": "ENS F HID. 2 P 6T 12 mt3",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "382462",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 146,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0147-E",
+      "nombre": "ENS F HID 2 P 6T 9mt3",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "306885",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 147,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0148-E",
+      "nombre": "ENS FORRAJE HID 1P 2T TANDEM",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "161314",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 148,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0149-E",
+      "nombre": "ENS F HID 2P TANDEM 3 T",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "229987",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 149,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0150-E",
+      "nombre": "ES-4T RED CORTAS",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "209261",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 150,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0151-E",
+      "nombre": "ENS SANDILLERO",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "250614",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 151,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0154-E",
+      "nombre": "RCB-3T 14 ft S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "145767",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 154,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0155-E",
+      "nombre": "RCB-3T 14 ft C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "154827",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 155,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0156-E",
+      "nombre": "RCB-3T 16 ft S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "157645",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 156,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0157-E",
+      "nombre": "RCB-3T 16 ft C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "167142",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 157,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0158-E",
+      "nombre": "RCB-1.5T 10 ft S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "81529",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 158,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0159-E",
+      "nombre": "RCB-1.5T 10 ft C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "90534",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 159,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0160-E",
+      "nombre": "RCB- 3T 10 ft S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "113674",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 160,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0161-E",
+      "nombre": "RCB- 3T 10 ft C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "118650",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 161,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0162-E",
+      "nombre": "RCB-6T 16 STD S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "253909",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 162,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0163-E",
+      "nombre": "RCB-6T 16 STD C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "260841",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 163,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0166-E",
+      "nombre": "RCB-3T 14 ft S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "152803",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 166,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0167-E",
+      "nombre": "RCB-3T 14 ft C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "161863",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 167,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0168-E",
+      "nombre": "RCB-3T 16 ft S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "164861",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 168,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0169-E",
+      "nombre": "RCB-3T 16 ft C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "174178",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 169,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0170-E",
+      "nombre": "RCB-6T 16 STD S/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "264297",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 170,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0171-E",
+      "nombre": "RCB-6T 16 STD C/F",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "271229",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 171,
+        "columna_modelo": "E",
+        "columna_precio": "G"
+      }
+    },
+    {
+      "id": "implementos-0005-I",
+      "nombre": "RT-18 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "284503",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 5,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0006-I",
+      "nombre": "RT-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "290478",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 6,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0007-I",
+      "nombre": "RT-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "298978",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 7,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0008-I",
+      "nombre": "RT-20 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "305848",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 8,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0009-I",
+      "nombre": "RT-22 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "308857",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 9,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0010-I",
+      "nombre": "RT-22 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "316014",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 10,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0011-I",
+      "nombre": "RT-24 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "336598",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 11,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0012-I",
+      "nombre": "RT-24 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "344842",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 12,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0013-I",
+      "nombre": "RT-26 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "369382",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 13,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0014-I",
+      "nombre": "RT-26 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "378313",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 14,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0015-I",
+      "nombre": "RT-28 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "384953",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 15,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0016-I",
+      "nombre": "RT-28 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "394571",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 16,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0021-I",
+      "nombre": "RT-22  26 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "411502",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 21,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0022-I",
+      "nombre": "RT-24  26 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "427467",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 22,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0023-I",
+      "nombre": "RT-26  26 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "466266",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 23,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0024-I",
+      "nombre": "RT-28  26 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "485874",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 24,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0025-I",
+      "nombre": "RT-30  24 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "481223",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 25,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0026-I",
+      "nombre": "RT-30  26 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "491528",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 26,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0027-I",
+      "nombre": "RT-32 24 X 1/4  REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "499430",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 27,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0028-I",
+      "nombre": "RT-32 26 X 1/4  REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "510422",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 28,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0029-I",
+      "nombre": "RT-36 24 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "556118",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 29,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0030-I",
+      "nombre": "RT-36 26 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "568484",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 30,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0031-I",
+      "nombre": "RT-38 26 X 1/4 REF",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "633449",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 31,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0036-I",
+      "nombre": "RT-38 26 X 1/4 REF 9\"",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "736179",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 36,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0037-I",
+      "nombre": "RT-40 26 X 1/4 REF 9\"",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "754882",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 37,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0038-I",
+      "nombre": "RT-42 26 X 1/4 REF 9\"",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "782208",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 38,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0039-I",
+      "nombre": "RT-44 26 X 1/4 REF 9\"",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "1034339",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 39,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0040-I",
+      "nombre": "RT-32 26 X 1/4 REF 10.5\"",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "612723",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 40,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0041-I",
+      "nombre": "RT-42 26 X 1/4 REF 10.5\"",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "782208",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 41,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0042-I",
+      "nombre": "RT-44 28 X 1/4 REF 10.5\"",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "1050971",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 42,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0046-I",
+      "nombre": "RT-22TI 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "429668",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 46,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0047-I",
+      "nombre": "RT-22TI 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "437225",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 47,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0048-I",
+      "nombre": "RT-24TI 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "458787",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 48,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0049-I",
+      "nombre": "RT-24TI 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "467031",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 49,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0050-I",
+      "nombre": "RT-26TI 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "478112",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 50,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0051-I",
+      "nombre": "RT-26TI 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "487043",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 51,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0052-I",
+      "nombre": "RT-28TI 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "506700",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 52,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0053-I",
+      "nombre": "RT-28TI 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "516318",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 53,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0054-I",
+      "nombre": "RT-30TI 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "533206",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 54,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0055-I",
+      "nombre": "RT-32TI 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "554489",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 55,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0056-I",
+      "nombre": "RT-32TI 26 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "565481",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 56,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0073-I",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "101841",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 73,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0074-I",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "104532",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 74,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0075-I",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "107369",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 75,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0076-I",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "110359",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 76,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0077-I",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "119809",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 77,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0081-I",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "114819",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 81,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0082-I",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "117510",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 82,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0083-I",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "121845",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 83,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0084-I",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "124835",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 84,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0085-I",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "134285",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 85,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0089-I",
+      "nombre": "RL-14 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "82278",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 89,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0090-I",
+      "nombre": "RL-14 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "84161",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 90,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0091-I",
+      "nombre": "RL-16 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "99025",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 91,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0092-I",
+      "nombre": "RL-16 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "101177",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 92,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0093-I",
+      "nombre": "RL-16 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "107677",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 93,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0094-I",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "106295",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 94,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0095-I",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "108716",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 95,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0096-I",
+      "nombre": "RL-18 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "116366",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 96,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0097-I",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "113726",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 97,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0098-I",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "116416",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 98,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0099-I",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V sin limpiadores",
+      "precio_lista_mxn": "124916",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 99,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0103-I",
+      "nombre": "RL-14 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "90780",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 103,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0104-I",
+      "nombre": "RL-14 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "92663",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 104,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0105-I",
+      "nombre": "RL-16 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "108863",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 105,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0106-I",
+      "nombre": "RL-16 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "111015",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 106,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0107-I",
+      "nombre": "RL-16 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "117515",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 107,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0108-I",
+      "nombre": "RL-18 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "117421",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 108,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0109-I",
+      "nombre": "RL-18 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "119842",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 109,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0110-I",
+      "nombre": "RL-18 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "127492",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 110,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0111-I",
+      "nombre": "RL-20 24 X 5/32",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "126140",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 111,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0112-I",
+      "nombre": "RL-20 24 X 3/16",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "128830",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 112,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0113-I",
+      "nombre": "RL-20 24 X 1/4",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": "Rastra de levante tipo V con limpiadores",
+      "precio_lista_mxn": "137330",
+      "regla_descuento_codigo": "rastra_tipo_v_57_3_10",
+      "requiere_configuracion_descuento": false,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 113,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0135-I",
+      "nombre": "RCB-6T 16 HIDR S/F *",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "339876",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 135,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0136-I",
+      "nombre": "RCB-6T 16 HIDR C/F *",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "356928",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 136,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0137-I",
+      "nombre": "RCB-6T 16 HIDR S/F **",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "349522",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 137,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0138-I",
+      "nombre": "RCB-6T 16 HIDR C/F **",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "366574",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 138,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0139-I",
+      "nombre": "RCB-6T 16 HIDR S/F ***",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "372687",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 139,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    },
+    {
+      "id": "implementos-0140-I",
+      "nombre": "RCB-6T 16 HIDR C/F ***",
+      "codigo_proveedor": null,
+      "categoria_general": "Implementos",
+      "familia_comercial": null,
+      "precio_lista_mxn": "389739",
+      "regla_descuento_codigo": null,
+      "requiere_configuracion_descuento": true,
+      "origen": {
+        "hoja": "Implementos",
+        "fila": 140,
+        "columna_modelo": "I",
+        "columna_precio": "K"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+services:
+  - type: pserv
+    name: agrotec-kelly-api
+    runtime: python
+    region: oregon
+    plan: 0.5c-512mb
+    rootDir: backend
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    preDeployCommand: python -m app.migrations
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT --proxy-headers --forwarded-allow-ips=*
+    autoDeployTrigger: commit
+    maxShutdownDelaySeconds: 30
+    envVars:
+      - key: AGROTEC_DATABASE_URL
+        fromDatabase:
+          name: agrotec-kelly-db
+          property: connectionString
+      - key: AGROTEC_ENV
+        value: production
+      - key: AGROTEC_COOKIE_SECURE
+        value: "1"
+      - key: AGROTEC_SESSION_HOURS
+        value: "12"
+      - key: AGROTEC_SESSION_SECRET
+        generateValue: true
+      - key: AGROTEC_ADMIN_EMAIL
+        sync: false
+      - key: AGROTEC_ADMIN_PASSWORD
+        sync: false
+      - key: AGROTEC_ADMIN_NAME
+        sync: false
+      - key: LOG_LEVEL
+        value: INFO
+      - key: AGROTEC_SKIP_MIGRATION_BACKUP
+        value: "1"
+
+  - type: web
+    name: agrotec-kelly-web
+    runtime: node
+    region: oregon
+    plan: 0.5c-512mb
+    rootDir: frontend
+    buildCommand: npm ci && npm run build
+    startCommand: npm start -- --hostname 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    autoDeployTrigger: commit
+    maxShutdownDelaySeconds: 30
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: BACKEND_HOSTPORT
+        fromService:
+          type: pserv
+          name: agrotec-kelly-api
+          property: hostport
+
+databases:
+  - name: agrotec-kelly-db
+    region: oregon
+    plan: 0.1c-256mb
+    postgresMajorVersion: "18"
+    databaseName: agrotec_kelly
+    user: agrotec_app
+    diskSizeGB: 1
+    ipAllowList: []

@@ -1,0 +1,44 @@
+# Python
+.venv/
+venv/
+**/__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+.coverage
+htmlcov/
+
+# SQLite y respaldos locales
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+backend/backups/
+
+# Variables de entorno y secretos locales
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Node / Next.js
+**/node_modules/
+frontend/.next/
+frontend/.next.*
+frontend/coverage/
+*.tsbuildinfo
+
+# Logs, temporales y archivos del sistema/editor
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
